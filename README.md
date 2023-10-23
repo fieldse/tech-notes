@@ -6,6 +6,7 @@ A collection of miscellaneous small code snippets and how-tos.
 
 - Coding blog - Things saved to maybe add to a coding blog later
 - Database and SQL stuff - PostgreSQL and database administration stuff
+- Go - Golang basics
 - Git stuff - Everything Git
 - Javascript + Typescript
 - Linux and sysadmin stuff
