@@ -1,4 +1,12 @@
+# Mac stuff
 .DS_Store
+
+# Git 
 .git/
+
+# VSCode
 *.code-project
 *.code-workspace
+
+# Obsidian
+**/.obsidian
